@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 - 📩 [Email](mailto:muhammadnaveedalijatt786@gmail.com)
 - 💬 [LinkedIn](#)
 - 🐦 [Twitter](#)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 Thanks for stopping by! 😃 Feel free to check out my repositories and follow my journey. Let's build something amazing together! 🚀
 
