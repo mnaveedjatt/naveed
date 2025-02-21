@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm [Muhammad Naveed]
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currently on an exciting journey to master **MERN & MEAN Stack Development**. I dedicate **7 hours a day** to learning and building awesome projects. 🚀
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currently on an exciting journey to master **MERN & MEAN Stack Development**. I dedicate **7 hours a day** to learning and building awesome projects. 
 
 ## 🚀 About Me
 - 🔥 MERN and MEAN Full stack Web Developer
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 - 🎯 Goal: Become a professional Full-Stack Developer
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 ## 🌟 Skills & Technologies
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React, Angular,Next js
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React, Angular.
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code,Figma 
