@@ -1,44 +1,30 @@
+# Hi there! 👋 I'm [Muhammad Naveed]
 
-<!---
-navee# Hi there, I'm Naveed Jat 👋
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currently on an exciting journey to master **MERN & MEAN Stack Development**. I dedicate **7 hours a day** to learning and building awesome projects. 🚀
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for learning and building innovative solutions. Here's a bit about me:
+## 🚀 About Me
+- 🔥 MERN and MEAN Full stack Web Developer
+- 💻 Learning **MERN (MongoDB, Express.js, React, Node.js)** and **MEAN (MongoDB, Express.js, Angular, Node.js)** stacks
+- 📚 Currently exploring **Unsplash API with JavaScript**
+- 🛠️ Skilled in **HTML, CSS, Bootstrap**
+- 🎯 Goal: Become a professional Full-Stack Developer
 
- 🚀 About Me
-- 💻 I specialize in full-stack development, with a strong focus on JavaScript and Python.
-- 🎓 I'm always eager to learn new technologies and improve my skills.
-- 🌱 Currently exploring AI and machine learning.
-- ⚙️ I enjoy working on open-source projects and contributing to the community.
+## 🌟 Skills & Technologies
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React, Angular,Next js
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code,Figma 
 
- 💼 Skills
-- **Languages:** JavaScript, Python, TypeScript, SQL
-- **Frameworks & Libraries:** React, Node.js, Express, Django
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure
-- **Databases:** MongoDB, PostgreSQL, MySQL
+## 📌 Current Focus
+- 🚧 Building real-world projects to apply my skills
+- 📖 Learning best practices for scalable and maintainable code
+- 🎨 Improving UI/UX and responsive design skills
 
-📈 GitHub Stats
-![Naveed's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveedjat&show_icons=true&theme=radical)
+## 📫 Let's Connect!
+- 🌐 [Portfolio]() *(Coming Soon!)*
+- 📩 [Email](mailto:muhammadnaveedalijatt786@gmail.com)
+- 💬 [LinkedIn](#)
+- 🐦 [Twitter](#)
 
-📫 How to reach me
-- **Email:** naveedjat@example.com
-- **LinkedIn:** [linkedin.com/in/naveedjat](https://linkedin.com/in/naveedjat)
-- **Twitter:** [@naveedjat](https://twitter.com/naveedjat)
+Thanks for stopping by! 😃 Feel free to check out my repositories and follow my journey. Let's build something amazing together! 🚀
 
-🌟 Projects
-- [Project 1](https://github.com/naveedjat/project1): A brief description of what this project does.
-- [Project 2](https://github.com/naveedjat/project2): A brief description of what this project does.
-- [Project 3](https://github.com/naveedjat/project3): A brief description of what this project does.
-
-📝 Blog Posts
-- [How to Build a Full-Stack Application](https://medium.com/@naveedjat/how-to-build-a-full-stack-application-123456)
-- [Understanding Docker and Kubernetes](https://medium.com/@naveedjat/understanding-docker-and-kubernetes-789012)
-- [Getting Started with Machine Learning](https://medium.com/@naveedjat/getting-started-with-machine-learning-345678)
-
-🤝 Contributions
-- Contributed to [Open Source Project 1](https://github.com/opensource/project1)
-- Contributed to [Open Source Project 2](https://github.com/opensource/project2)
-
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech.
-djat/naveedjat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
